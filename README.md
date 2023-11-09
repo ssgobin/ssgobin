@@ -24,9 +24,7 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2020 d
   <img height="50px" src="https://assets.univesp.br/novotec/codepen/unidade4/html5.png"/>
   <img height="50px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
   <img height="50px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
-  
-  <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"/>
-  
+
   <img height="50px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png"/>
   <img height="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
   <img height="50px" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png"/>
