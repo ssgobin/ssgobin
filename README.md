@@ -11,9 +11,9 @@
 
 <hr>
 
-  Oi! Meu nome é João, tenho 17 anos e atualmente estou me formando em Análise e Desenvolvimento de Sistemas! Nasci em 16 de março de 2006 e meu amor por tecnologia começou quando eu era bem novo e adorava passar horas jogando videogame ou usando o computador, e sempre tive curiosidade em saber como os jogos que eu jogava eram feitos, e com esse interesse, segui com minha curiosidade querendo saber como tudo era programado.<br/><br/>
+  Oi! Meu nome é João, tenho 18 anos e atualmente estou me formando em Análise e Desenvolvimento de Sistemas! Nasci em 16 de março de 2006 e meu amor por tecnologia começou quando eu era bem novo e adorava passar horas jogando videogame ou usando o computador, e sempre tive curiosidade em saber como os jogos que eu jogava eram feitos, e com esse interesse, segui com minha curiosidade querendo saber como tudo era programado.<br/><br/>
 
-O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2020 decidi prestar vestibular para entrar na ETEC em Desenvolvimento de Sistemas com mentoria especial da IBM. No momento estou cursando Desenvolvimento de Sistemas na FATEC Americana.
+O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2020 decidi prestar vestibular para entrar na ETEC em Desenvolvimento de Sistemas com mentoria especial da IBM. No momento estou cursando Análise e Desenvolvimento de Sistemas na FATEC Americana.
 </p>
 
 <h2 align="left">
