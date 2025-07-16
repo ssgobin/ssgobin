@@ -37,12 +37,6 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2020 d
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ssgobin&theme=shadow-purple&locale=pt_BR)](https://git.io/streak-stats)
 
-<h2>🧑 Visitantes </h2>
-
-![Visitor Count](https://profile-counter.glitch.me/ssgobin/count.svg)
-
-<hr>
-
 <p>
   🤝 Se você deseja realizar um projeto comigo ou bater papo, não tenha vergonha em me enviar uma mensagem: ⤵️
 </p>
