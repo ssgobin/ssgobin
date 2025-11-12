@@ -27,6 +27,8 @@ O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2020 d
 
   <img height="50px" src="https://www.cursou.com.br/wp-content/uploads/2017/10/Curso-de-PHP-PSRs.png"/>
   <img height="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
+  <img height="50px" src="https://runestone.academy/ns/books/published/mobilecsp/_images/python-logo.png"/>
+  <img height="50px" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg"/>
   
   </div>
 
