@@ -7,14 +7,34 @@
 
 <p align="left">
 
-<h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3>👋 Olá! Eu sou o João Vitor Sgobin</h3>
 
 <hr>
 
-  Oi! Meu nome é João, tenho 19 anos e atualmente estou me formando em Análise e Desenvolvimento de Sistemas! Nasci em 16 de março de 2006 e meu amor por tecnologia começou quando eu era bem novo e adorava passar horas jogando videogame ou usando o computador, e sempre tive curiosidade em saber como os jogos que eu jogava eram feitos, e com esse interesse, segui com minha curiosidade querendo saber como tudo era programado.<br/><br/>
+Sou um desenvolvedor apaixonado por tecnologia desde pequeno — aquele tipo de criança que passava horas jogando videogame, fuçando no computador e se perguntando como tudo aquilo funcionava por trás das telas.
+Com o tempo, essa curiosidade virou motivação, e motivação virou carreira.
 
-O tempo passou e meu amor por tecnologia aumentou ainda mais, e no fim de 2020 decidi prestar vestibular para entrar na ETEC em Desenvolvimento de Sistemas com mentoria especial da IBM. No momento estou cursando Análise e Desenvolvimento de Sistemas na FATEC Americana.
-</p>
+<h3>🚀 Minha trajetória</h3>
+
+<hr>
+
+Nasci em 16 de março de 2006 e, desde cedo, a programação despertou meu interesse. Eu sempre quis entender como os jogos que eu jogava eram criados, como os sistemas funcionavam e como era possível transformar ideias em algo real.
+
+Em 2020, decidi seguir esse caminho oficialmente: prestei vestibular para a ETEC, no curso de Desenvolvimento de Sistemas, onde tive também a oportunidade de vivenciar projetos com mentoria da IBM. Essa experiência me aprofundou ainda mais no universo da tecnologia e confirmou que eu estava no caminho certo.
+
+Atualmente, estou finalizando minha formação em Análise e Desenvolvimento de Sistemas na FATEC Americana, expandindo meus conhecimentos em desenvolvimento web, mobile, backend, bancos de dados, cloud e IoT.
+
+<h3>💻 O que mais gosto de fazer</h3>
+
+<hr>
+
+<ul>
+  <li>Desenvolvimento Web (Frontend &amp; Backend)</li>
+  <li>Projetos com Firebase, Java Spring, Node.js, Python</li>
+  <li>Aplicações conectadas e sistemas com IoT</li>
+  <li>Criar soluções completas: da ideia ➝ ao código ➝ ao deploy</li>
+  <li>Transformar problemas reais em ferramentas úteis</li>
+</ul>
 
 <h2 align="left">
   🚀 Ferramentas e habilidades:
