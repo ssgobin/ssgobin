@@ -9,14 +9,12 @@
 
 <h3>👋 Olá! Eu sou o João Vitor Sgobin</h3>
 
-<hr>
-
 Sou um desenvolvedor apaixonado por tecnologia desde pequeno — aquele tipo de criança que passava horas jogando videogame, fuçando no computador e se perguntando como tudo aquilo funcionava por trás das telas.
 Com o tempo, essa curiosidade virou motivação, e motivação virou carreira.
 
-<h3>🚀 Minha trajetória</h3>
-
 <hr>
+
+<h3>🚀 Minha trajetória</h3>
 
 Nasci em 16 de março de 2006 e, desde cedo, a programação despertou meu interesse. Eu sempre quis entender como os jogos que eu jogava eram criados, como os sistemas funcionavam e como era possível transformar ideias em algo real.
 
@@ -24,9 +22,9 @@ Em 2020, decidi seguir esse caminho oficialmente: prestei vestibular para a ETEC
 
 Atualmente, estou finalizando minha formação em Análise e Desenvolvimento de Sistemas na FATEC Americana, expandindo meus conhecimentos em desenvolvimento web, mobile, backend, bancos de dados, cloud e IoT.
 
-<h3>💻 O que mais gosto de fazer</h3>
-
 <hr>
+
+<h3>💻 O que mais gosto de fazer</h3>
 
 <ul>
   <li>Desenvolvimento Web (Frontend &amp; Backend)</li>
@@ -35,6 +33,8 @@ Atualmente, estou finalizando minha formação em Análise e Desenvolvimento de 
   <li>Criar soluções completas: da ideia ➝ ao código ➝ ao deploy</li>
   <li>Transformar problemas reais em ferramentas úteis</li>
 </ul>
+
+<hr>
 
 <h2 align="left">
   🚀 Ferramentas e habilidades:
