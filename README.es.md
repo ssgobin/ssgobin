@@ -8,7 +8,13 @@
 
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenido!;Me+llamo+Jo%C3%A3o+Vitor;Soy+estudiante+de+An%C3%A1lisis+de+Sistemas;Disfruta+mis+proyectos!" alt="Typing SVG" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9oZ3d2OWxsZno4aGF6ZjRtMmFhOXNtY2Vzem9haXZwZHJiYzFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="350px" align="right" style="margin-left: 50px;"/>
+  <img 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9oZ3d2OWxsZno4aGF6ZjRtMmFhOXNtY2Vzem9haXZwZHJiYzFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"
+  width="230px"
+  align="right"
+  style="border-radius: 50%; margin-left: 40px; box-shadow: 0 0 10px rgba(0,0,0,0.25);"
+/>
+
 </div>
 
 <br><br>
