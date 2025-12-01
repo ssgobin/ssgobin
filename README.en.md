@@ -62,8 +62,6 @@ Currently, I’m completing my degree in Systems Analysis and Development at FAT
 
 <hr>
 
-<h2>⚙️ Stats:</h2>
-
 <p>🤝 If you'd like to work on a project with me or chat, feel free to contact me:</p>
 
 <p align="left">
