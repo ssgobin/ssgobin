@@ -62,8 +62,6 @@ Atualmente, estou finalizando minha formação em Análise e Desenvolvimento de 
 
 <hr>
 
-<h2>⚙️ Estatísticas:</h2>
-
 <p>🤝 Se você deseja realizar um projeto comigo ou bater papo, não tenha vergonha em me enviar uma mensagem:</p>
 
 <p align="left">
