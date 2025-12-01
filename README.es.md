@@ -62,8 +62,6 @@ Actualmente, estoy finalizando mi formación en Análisis y Desarrollo de Sistem
 
 <hr>
 
-<h2>⚙️ Estadísticas:</h2>
-
 <p>🤝 Si deseas trabajar conmigo o conversar, no dudes en enviarme un mensaje:</p>
 
 <p align="left">
