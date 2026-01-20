@@ -7,7 +7,7 @@
 ---
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!;My+name+is+Jo%C3%A3o+Vitor;I'm+a+Systems+Analysis+student;Enjoy+my+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!;My+name+is+Jo%C3%A3o+Vitor;FullStack+Dev;Enjoy+my+projects!" alt="Typing SVG" />
   <img 
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9oZ3d2OWxsZno4aGF6ZjRtMmFhOXNtY2Vzem9haXZwZHJiYzFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"
   width="230px"
