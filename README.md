@@ -6,51 +6,52 @@
 
 ---
 
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a)!;Me+chamo+Jo%C3%A3o+Vitor;Dev+FullStack;Aproveite+os+projetos;" alt="Typing SVG" />
-  <img 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;Me+chamo+Jo%C3%A3o+Vitor+Sgobin;Desenvolvedor+Full+Stack;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais" alt="Typing SVG" />
+</div>
+
+<br>
+
+<img 
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9oZ3d2OWxsZno4aGF6ZjRtMmFhOXNtY2Vzem9haXZwZHJiYzFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"
   width="230px"
   align="right"
-  style="border-radius: 50%; margin-left: 40px; box-shadow: 0 0 10px rgba(0,0,0,0.25);"
+  style="border-radius: 16px; margin-left: 30px;"
 />
 
-</div>
+## 👋 Olá! Eu sou o João Vitor Sgobin
 
-<br><br>
+Sou um desenvolvedor apaixonado por tecnologia, com grande interesse em criar soluções completas, funcionais e bem estruturadas. Desde cedo, sempre tive curiosidade em entender como sistemas, jogos e aplicações funcionavam por trás das telas, e foi exatamente essa curiosidade que me trouxe para a área de desenvolvimento.
 
-<h3>👋 Olá! Eu sou o João Vitor Sgobin</h3>
+Hoje, sigo evoluindo constantemente como profissional, buscando unir criatividade, lógica e tecnologia para transformar ideias em projetos reais.
 
-Sou um desenvolvedor apaixonado por tecnologia desde pequeno — aquele tipo de criança que passava horas jogando videogame, fuçando no computador e se perguntando como tudo aquilo funcionava por trás das telas.  
-Com o tempo, essa curiosidade virou motivação, e motivação virou carreira.
+---
 
-<hr>
+## 🚀 Sobre minha trajetória
 
-<h3>🚀 Minha trajetória</h3>
+Minha jornada na programação começou cedo, motivada pela vontade de entender como as coisas eram construídas no mundo digital.
 
-Nasci em 16 de março de 2006 e, desde cedo, a programação despertou meu interesse. Eu sempre quis entender como os jogos que eu jogava eram criados, como os sistemas funcionavam e como era possível transformar ideias em algo real.
+Em 2020, dei um passo importante ao ingressar na **ETEC**, no curso de **Desenvolvimento de Sistemas**, onde também tive contato com projetos mentorados pela **IBM**. Essa vivência fortaleceu ainda mais meu interesse pela área e ampliou minha visão sobre desenvolvimento de software.
 
-Em 2020, decidi seguir esse caminho oficialmente: prestei vestibular para a ETEC, no curso de Desenvolvimento de Sistemas, onde tive também a oportunidade de vivenciar projetos com mentoria da IBM. Essa experiência me aprofundou ainda mais no universo da tecnologia e confirmou que eu estava no caminho certo.
+Depois disso, concluí minha graduação em **Análise e Desenvolvimento de Sistemas** pela **FATEC Americana**.
 
-Atualmente, estou finalizando minha formação em Análise e Desenvolvimento de Sistemas na FATEC Americana, expandindo meus conhecimentos em desenvolvimento web, mobile, backend, bancos de dados, cloud e IoT.
+Atualmente, estou cursando **Bacharelado em Engenharia de Software**, aprofundando meus conhecimentos em arquitetura de sistemas, desenvolvimento web, backend, banco de dados, cloud computing, boas práticas de engenharia e construção de soluções escaláveis.
 
-<hr>
+---
 
-<h3>💻 O que mais gosto de fazer</h3>
+## 💻 O que eu mais gosto de desenvolver
 
-<ul>
-  <li>Desenvolvimento Web (Frontend & Backend)</li>
-  <li>Projetos com Firebase, Java Spring, Node.js, Python</li>
-  <li>Aplicações conectadas e sistemas com IoT</li>
-  <li>Criar soluções completas: da ideia ➝ ao código ➝ ao deploy</li>
-  <li>Transformar problemas reais em ferramentas úteis</li>
-</ul>
+- Aplicações web completas, do frontend ao backend
+- Sistemas com **Firebase**, **Java Spring**, **Node.js** e **Python**
+- Projetos conectados com **IoT**
+- Soluções práticas para problemas reais
+- Produtos bem estruturados, com foco em usabilidade, organização e segurança
 
-<hr>
+---
 
-<h2 align="left">🚀 Ferramentas e habilidades:</h2>
+## 🛠️ Tecnologias e ferramentas
 
-<div>
+<div align="left">
   <img height="50px" src="https://assets.univesp.br/novotec/codepen/unidade4/html5.png"/>
   <img height="50px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
   <img height="50px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
@@ -60,22 +61,40 @@ Atualmente, estou finalizando minha formação em Análise e Desenvolvimento de 
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg"/>
 </div>
 
-<hr>
+---
 
-<p>🤝 Se você deseja realizar um projeto comigo ou bater papo, não tenha vergonha em me enviar uma mensagem:</p>
+## 🌟 Áreas de interesse
+
+- Desenvolvimento Full Stack
+- Backend e APIs
+- Firebase e banco de dados
+- Cloud Computing
+- Engenharia de Software
+- Sistemas integrados e automação
+- Interfaces modernas e responsivas
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Se você quiser conversar sobre tecnologia, projetos, oportunidades ou ideias, fique à vontade para entrar em contato:
 
 <p align="left">
- <a href="https://github.com/ssgobin" target="_blank">
-    <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
- </a>
+  <a href="https://github.com/ssgobin" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-242424?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
- <a href="https://www.linkedin.com/in/joao-vitor-sgobin-4a4556211/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
- </a>
+  <a href="https://www.linkedin.com/in/joao-vitor-sgobin-4a4556211/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
- <a href="mailto:ssgobin.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
- </a>
+  <a href="mailto:ssgobin.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🎧 O que estou ouvindo
 
 [![Spotify](https://novatorem-oc6h0x6ww-ssgobin.vercel.app/api/spotify)](https://open.spotify.com/user/ssgobin)
