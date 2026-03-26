@@ -6,51 +6,52 @@
 
 ---
 
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!;My+name+is+Jo%C3%A3o+Vitor;FullStack+Dev;Enjoy+my+projects!" alt="Typing SVG" />
-  <img 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Welcome+to+my+GitHub!;My+name+is+Jo%C3%A3o+Vitor+Sgobin;Full+Stack+Developer;Turning+ideas+into+real+solutions" alt="Typing SVG" />
+</div>
+
+<br>
+
+<img 
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9oZ3d2OWxsZno4aGF6ZjRtMmFhOXNtY2Vzem9haXZwZHJiYzFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"
   width="230px"
   align="right"
-  style="border-radius: 50%; margin-left: 40px; box-shadow: 0 0 10px rgba(0,0,0,0.25);"
+  style="border-radius: 16px; margin-left: 30px;"
 />
 
-</div>
+## 👋 Hello! I'm João Vitor Sgobin
 
-<br><br>
+I am a developer passionate about technology, with a strong interest in building complete, functional, and well-structured solutions. Since I was young, I have always been curious about how systems, games, and applications work behind the scenes, and that curiosity is exactly what led me into software development.
 
-<h3>👋 Hello! I'm João Vitor Sgobin</h3>
+Today, I keep growing as a professional, always looking for ways to combine creativity, logic, and technology to turn ideas into real projects.
 
-I’m a developer passionate about technology since childhood — the type of kid who spent hours playing videogames, tinkering with computers, and wondering how everything worked behind the scenes.  
-Over time, curiosity became motivation, and motivation became a career.
+---
 
-<hr>
+## 🚀 About my journey
 
-<h3>🚀 My path</h3>
+My path in programming started early, driven by the desire to understand how things are built in the digital world.
 
-I was born on March 16, 2006, and since an early age, programming has always caught my attention. I always wanted to understand how the games I played were built, how systems worked, and how ideas could turn into something real.
+In 2020, I took an important step by joining **ETEC** in the **Systems Development** program, where I also had the opportunity to work on projects mentored by **IBM**. That experience strengthened my passion for the field and expanded my perspective on software development.
 
-In 2020, I officially began this journey by joining ETEC in the Systems Development course, where I also had the opportunity to work on projects mentored by IBM. This experience deepened my passion for tech and confirmed I was on the right track.
+After that, I completed my degree in **Systems Analysis and Development** at **FATEC Americana**.
 
-Currently, I’m completing my degree in Systems Analysis and Development at FATEC Americana, expanding my knowledge in web development, mobile development, backend, databases, cloud, and IoT.
+Currently, I am pursuing a **Bachelor’s degree in Software Engineering**, deepening my knowledge in system architecture, web development, backend, databases, cloud computing, engineering best practices, and scalable solution design.
 
-<hr>
+---
 
-<h3>💻 What I love doing</h3>
+## 💻 What I enjoy building the most
 
-<ul>
-  <li>Web Development (Frontend & Backend)</li>
-  <li>Projects with Firebase, Java Spring, Node.js, Python</li>
-  <li>Connected applications and IoT-based systems</li>
-  <li>Building complete solutions: idea ➝ code ➝ deployment</li>
-  <li>Turning real problems into useful tools</li>
-</ul>
+- Full web applications, from frontend to backend
+- Systems using **Firebase**, **Java Spring**, **Node.js**, and **Python**
+- Connected projects with **IoT**
+- Practical solutions for real-world problems
+- Well-structured products focused on usability, organization, and security
 
-<hr>
+---
 
-<h2 align="left">🚀 Tools & Skills:</h2>
+## 🛠️ Technologies and tools
 
-<div>
+<div align="left">
   <img height="50px" src="https://assets.univesp.br/novotec/codepen/unidade4/html5.png"/>
   <img height="50px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
   <img height="50px" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png"/>
@@ -60,22 +61,40 @@ Currently, I’m completing my degree in Systems Analysis and Development at FAT
   <img height="50px" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg"/>
 </div>
 
-<hr>
+---
 
-<p>🤝 If you'd like to work on a project with me or chat, feel free to contact me:</p>
+## 🌟 Areas of interest
+
+- Full Stack Development
+- Backend and APIs
+- Firebase and databases
+- Cloud Computing
+- Software Engineering
+- Integrated systems and automation
+- Modern and responsive interfaces
+
+---
+
+## 🤝 Let’s connect
+
+If you would like to talk about technology, projects, opportunities, or ideas, feel free to reach out:
 
 <p align="left">
- <a href="https://github.com/ssgobin" target="_blank">
-    <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
- </a>
+  <a href="https://github.com/ssgobin" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-242424?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
- <a href="https://www.linkedin.com/in/joao-vitor-sgobin-4a4556211/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
- </a>
+  <a href="https://www.linkedin.com/in/joao-vitor-sgobin-4a4556211/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
- <a href="mailto:ssgobin.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
- </a>
+  <a href="mailto:ssgobin.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🎧 What I’m listening to
 
 [![Spotify](https://novatorem-oc6h0x6ww-ssgobin.vercel.app/api/spotify)](https://open.spotify.com/user/ssgobin)
